@@ -1,1 +1,1 @@
-export { default as samplemodule } from "./samplemodule";
+export { default as numbergame } from "./numbergame";
