@@ -95,8 +95,7 @@ const initialState = {
     }
   ],
   targetNumber: 1,
-  isActive: false,
-  seconds: 0
+  isActive: false
 };
 
 function randomTileSet(init) {
