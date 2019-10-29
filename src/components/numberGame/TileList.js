@@ -32,7 +32,7 @@ const Tile = ({ key, number, done, handleClick, handleToggleActive }) => {
   );
 };
 
-const TileList = ({ tiles, handleClick, handleInit, handleToggleActive }) => {
+const TileList = ({ tiles, handleClick, handleToggleActive }) => {
   return (
     <>
       {tiles.map(tile => (
