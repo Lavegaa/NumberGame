@@ -1,4 +1,4 @@
-# 숫자게임 with react-redux-router
+# 숫자게임 with react/redux/router
 
 1~16까지 생성된 숫자를 순서대로 빠르게 누르는 게임입니다.
 리덕스와 라우터 공부를 위해 제작했습니다.
